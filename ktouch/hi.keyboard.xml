@@ -1,0 +1,220 @@
+<KTouchKeyboard>
+ <Title>Hindi</Title>
+ <Comment>Hindi keyboard</Comment>
+ <FontSuggestions>Lohit Hindi,11,-1,5,50,0,0,0,0,0</FontSuggestions>
+ <Language>hi (हिन्दी)</Language>
+ <Keys>
+  <Key Width="80" X="-80" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2320" Position="TopLeft">ऐ</Char>
+   <Char Unicode="2376" Position="BottomLeft">ै</Char>
+  </Key>
+  <Key Width="80" X="0" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2310" Position="TopLeft">आ</Char>
+   <Char Unicode="2366" Position="BottomLeft">ा</Char>
+  </Key>
+  <Key Width="80" X="40" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2309" Position="TopLeft">अ</Char>
+   <Char Unicode="2381" Position="BottomLeft">्</Char>
+  </Key>
+  <Key Width="80" X="-40" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2319" Position="TopLeft">ए</Char>
+   <Char Unicode="2375" Position="BottomLeft">े</Char>
+  </Key>
+  <Key Width="80" X="-120" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2323" Position="TopLeft">ओ</Char>
+   <Char Unicode="2379" Position="BottomLeft">ो</Char>
+  </Key>
+  <Key Width="80" X="80" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2312" Position="TopLeft">ई</Char>
+   <Char Unicode="2368" Position="BottomLeft">ी</Char>
+  </Key>
+  <Key Width="80" X="-290" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="2322" Position="TopLeft">ऒ</Char>
+   <Char Unicode="2378" Position="BottomLeft">ॊ</Char>
+  </Key>
+  <Key Width="80" X="160" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2314" Position="TopLeft">ऊ</Char>
+   <Char Unicode="2370" Position="BottomLeft">ू</Char>
+  </Key>
+  <Key Width="80" X="240" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2349" Position="TopLeft">भ</Char>
+   <Char Unicode="2348" Position="BottomLeft">ब</Char>
+  </Key>
+  <Key Width="80" X="200" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2313" Position="TopLeft">उ</Char>
+   <Char Unicode="2369" Position="BottomLeft">ु</Char>
+  </Key>
+  <Key Width="80" X="120" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2311" Position="TopLeft">इ</Char>
+   <Char Unicode="2367" Position="BottomLeft">ि</Char>
+  </Key>
+  <Key Width="80" X="-160" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2324" Position="TopLeft">औ</Char>
+   <Char Unicode="2380" Position="BottomLeft">ौ</Char>
+  </Key>
+  <Key Width="80" X="320" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2329" Position="TopLeft">ङ</Char>
+   <Char Unicode="2361" Position="BottomLeft">ह</Char>
+  </Key>
+  <Key Width="80" X="280" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2347" Position="TopLeft">फ</Char>
+   <Char Unicode="2346" Position="BottomLeft">प</Char>
+  </Key>
+  <Key Width="80" X="360" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2353" Position="TopLeft">ऱ</Char>
+   <Char Unicode="2352" Position="BottomLeft">र</Char>
+  </Key>
+  <Key Width="80" X="400" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2328" Position="TopLeft">घ</Char>
+   <Char Unicode="2327" Position="BottomLeft">ग</Char>
+  </Key>
+  <Key Width="80" X="560" Y="160" Height="80" Type="NORMAL">
+   <Char Unicode="2359" Position="TopLeft">ष</Char>
+   <Char Unicode="46" Position="BottomLeft">.</Char>
+  </Key>
+  <Key Width="80" X="480" Y="160" Height="80" Type="NORMAL">
+   <Char Unicode="2359" Position="TopLeft">ष</Char>
+   <Char Unicode="44" Position="BottomLeft">,</Char>
+  </Key>
+  <Key Width="80" X="400" Y="160" Height="80" Type="NORMAL">
+   <Char Unicode="2358" Position="TopLeft">श</Char>
+   <Char Unicode="2360" Position="BottomLeft">स</Char>
+  </Key>
+  <Key Width="80" X="320" Y="160" Height="80" Type="NORMAL">
+   <Char Unicode="2355" Position="TopLeft">ळ</Char>
+   <Char Unicode="2354" Position="BottomLeft">ल</Char>
+  </Key>
+  <Key Width="80" X="240" Y="160" Height="80" Type="NORMAL">
+   <Char Unicode="2356" Position="TopLeft">ऴ</Char>
+   <Char Unicode="2357" Position="BottomLeft">व</Char>
+  </Key>
+  <Key Width="80" X="160" Y="160" Height="80" Type="NORMAL">
+   <Char Unicode="2345" Position="TopLeft">ऩ</Char>
+   <Char Unicode="2344" Position="BottomLeft">न</Char>
+  </Key>
+  <Key Width="80" X="80" Y="160" Height="80" Type="NORMAL">
+   <Char Unicode="2339" Position="TopLeft">ण</Char>
+   <Char Unicode="2350" Position="BottomLeft">म</Char>
+  </Key>
+  <Key Width="80" X="0" Y="160" Height="80" Type="NORMAL">
+   <Char Unicode="2305" Position="TopLeft">ँ</Char>
+   <Char Unicode="2306" Position="BottomLeft">ं</Char>
+  </Key>
+  <Key Width="80" X="-80" Y="160" Height="80" Type="NORMAL">
+   <Char Unicode="2318" Position="TopLeft">ऎ</Char>
+   <Char Unicode="2374" Position="BottomLeft">ॆ</Char>
+  </Key>
+  <Key Width="80" X="680" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2336" Position="TopLeft">ठ</Char>
+   <Char Unicode="2335" Position="BottomLeft">ट</Char>
+  </Key>
+  <Key Width="80" X="600" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2331" Position="TopLeft">छ</Char>
+   <Char Unicode="2330" Position="BottomLeft">च</Char>
+  </Key>
+  <Key Width="80" X="520" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2341" Position="TopLeft">थ</Char>
+   <Char Unicode="2340" Position="BottomLeft">त</Char>
+  </Key>
+  <Key Width="80" X="440" Y="80" Height="80" Type="NORMAL">
+   <Char Unicode="2326" Position="TopLeft">ख</Char>
+   <Char Unicode="2325" Position="BottomLeft">क</Char>
+  </Key>
+  <Key Width="80" X="640" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2338" Position="TopLeft">ढ</Char>
+   <Char Unicode="2337" Position="BottomLeft">ड</Char>
+  </Key>
+  <Key Width="80" X="560" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2333" Position="TopLeft">झ</Char>
+   <Char Unicode="2332" Position="BottomLeft">ज</Char>
+  </Key>
+  <Key Width="80" X="480" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2343" Position="TopLeft">ध</Char>
+   <Char Unicode="2342" Position="BottomLeft">द</Char>
+  </Key>
+  <Key Width="80" X="640" Y="160" Height="80" Type="NORMAL">
+   <Char Unicode="2404" Position="TopLeft">।</Char>
+   <Char Unicode="46" Position="BottomLeft">.</Char>
+  </Key>
+  <Key Width="80" X="0" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="2322" Position="TopLeft">ऒ</Char>
+   <Char Unicode="2378" Position="BottomLeft">ॊ</Char>
+  </Key>
+  <Key Width="80" X="750" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="2321" Position="TopLeft">ऑ</Char>
+   <Char Unicode="2377" Position="BottomLeft">ॉ</Char>
+  </Key>
+  <Key Width="80" X="670" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="2315" Position="TopLeft">ऋ</Char>
+   <Char Unicode="2371" Position="BottomLeft">ृ</Char>
+  </Key>
+  <Key Width="80" X="590" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="2307" Position="TopLeft">ः</Char>
+   <Char Unicode="45" Position="BottomLeft">-</Char>
+  </Key>
+  <Key Width="80" X="510" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="41" Position="TopLeft">)</Char>
+   <Char Unicode="2406" Position="BottomLeft">०</Char>
+  </Key>
+  <Key Width="80" X="430" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="40" Position="TopLeft">(</Char>
+   <Char Unicode="2415" Position="BottomLeft">९</Char>
+  </Key>
+  <Key Width="80" X="350" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="42" Position="TopLeft">*</Char>
+   <Char Unicode="2414" Position="BottomLeft">८</Char>
+  </Key>
+  <Key Width="80" X="270" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="38" Position="TopLeft">&amp;</Char>
+   <Char Unicode="2413" Position="BottomLeft">७</Char>
+  </Key>
+  <Key Width="80" X="190" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="94" Position="TopLeft">^</Char>
+   <Char Unicode="2412" Position="BottomLeft">६</Char>
+  </Key>
+  <Key Width="80" X="110" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="37" Position="TopLeft">%</Char>
+   <Char Unicode="2411" Position="BottomLeft">५</Char>
+  </Key>
+  <Key Width="80" X="30" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="36" Position="TopLeft">$</Char>
+   <Char Unicode="2410" Position="BottomLeft">४</Char>
+  </Key>
+  <Key Width="80" X="-130" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="2373" Position="TopLeft">ॅ</Char>
+   <Char Unicode="2408" Position="BottomLeft">२</Char>
+  </Key>
+  <Key Width="80" X="-210" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="2317" Position="TopLeft">ऍ</Char>
+   <Char Unicode="2407" Position="BottomLeft">१</Char>
+  </Key>
+  <Key Width="80" X="-50" Y="-80" Height="80" Type="NORMAL">
+   <Char Unicode="35" Position="TopLeft">#</Char>
+   <Char Unicode="2409" Position="BottomLeft">३</Char>
+  </Key>
+  <Key Width="80" X="770" Y="160" Height="80" Type="SPACE">
+   <Char Unicode="2336" Position="TopLeft">ठ</Char>
+   <Char Unicode="2335" Position="BottomLeft">ट</Char>
+  </Key>
+  <Key Width="80" X="770" Y="80" Height="80" Type="ENTER">
+   <Char Unicode="88" Position="TopLeft">X</Char>
+  </Key>
+  <Key Width="80" X="830" Y="-80" Height="80" Type="BACKSPACE">
+   <Char Unicode="88" Position="TopLeft">X</Char>
+  </Key>
+  <Key Width="80" X="720" Y="0" Height="80" Type="NORMAL">
+   <Char Unicode="2334" Position="TopLeft">ञ</Char>
+   <Char Unicode="2364" Position="BottomLeft">़</Char>
+  </Key>
+  <Key Width="80" X="-290" Y="80" Height="80" Type="CAPSLOCK">
+   <Char Unicode="88" Position="TopLeft">X</Char>
+  </Key>
+  <Key Width="80" X="-290" Y="160" Height="80" Type="SHIFT">
+   <Char Unicode="88" Position="TopLeft">X</Char>
+  </Key>
+  <Key Width="80" X="-290" Y="0" Height="80" Type="TAB">
+   <Char Unicode="88" Position="TopLeft">X</Char>
+  </Key>
+ </Keys>
+ <Connections/>
+</KTouchKeyboard>
